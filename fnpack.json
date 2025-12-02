@@ -12,5 +12,19 @@
         "history": {
             "v1.9.6": "初始版本"
         }
+    },
+    "certimate": {
+        "display_name": "Certimate",
+        "desc": "完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。",
+        "labels": "工具,效率,证书,网络",
+        "version": "0.4.7",
+        "author": "certimate-go",
+        "author_url": "https://docs.certimate.me",
+        "bug_report_url": "https://docs.certimate.me",
+        "install_type": "存储空间",
+        "size": "10.4",
+        "history": {
+            "v0.4.7": "初始版本"
+        }
     }
 }
