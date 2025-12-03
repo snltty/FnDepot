@@ -1,7 +1,7 @@
 {
     "linker": {
         "display_name": "Linker",
-        "desc": "极具特色的异地组网+内网穿透，由P2P打洞(UDP+TCP、IPV4+IPV6) + 服务器转发实现。让你那些散落在世界各地的联网设备就像在隔壁房间一样轻松访问。",
+        "desc": "极具特色的异地组网+内网穿透，由P2P打洞(UDP+TCP、IPV4+IPV6) + 服务器转发实现。让你那些散落在世界各地的联网设备就像在隔壁房间一样轻松访问。也可以前往<a href='https://linker.snltty.com' target='_blank'>官网下载安装包</a>",
         "labels": "工具,效率,网络,组网,异地组网",
         "version": "1.9.6",
         "author": "snltty",
