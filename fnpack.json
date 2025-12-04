@@ -15,7 +15,7 @@
     },
     "certimate": {
         "display_name": "Certimate",
-        "desc": "完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。",
+        "desc": "完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期全流程自动化可视化，支持各大主流云厂商。默认账号密码 admin@certimate.fun  1234567890",
         "labels": "工具,效率,证书,网络",
         "version": "0.4.7",
         "author": "certimate-go",
