@@ -26,5 +26,20 @@
         "history": {
             "v0.4.7": "初始版本"
         }
+    },
+    "fnpackup": {
+        "display_name": "在线fpk",
+        "desc": "fnpack二次包装UI，在线编辑和打包fpk",
+        "labels": "工具,效率",
+        "version": "0.0.1",
+        "author": "snltty",
+        "author_url": "https://github.com/snltty/fnpackup",
+        "bug_report_url": "https://github.com/snltty/fnpackup",
+        "install_type": "存储空间",
+        "size": "0.05",
+        "history": {
+            "v0.0.1": "初始版本"
+        }
     }
+
 }
