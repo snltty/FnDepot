@@ -40,6 +40,21 @@
         "history": {
             "v1.0.1": "初始版本"
         }
+    },
+     "cs16server": {
+        "display_name": "CS1.6服务端",
+        "desc": "经典cs1.6服务端",
+        "labels": "游戏",
+        "version": "1.0.0",
+        "author": "snltty",
+        "author_url": "https://github.com/snltty",
+        "bug_report_url": "https://github.com/snltty",
+        "install_type": "存储空间",
+        "size": "0.05",
+        "history": {
+            "v1.0.0": "初始版本"
+        }
     }
+
 
 }
