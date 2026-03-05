@@ -1,16 +1,18 @@
 {
     "linker": {
         "display_name": "Linker",
+	"platform":"all",
         "desc": "极具特色的异地组网+内网穿透，由P2P打洞(UDP+TCP、IPV4+IPV6) + 服务器转发实现。让你那些散落在世界各地的联网设备就像在隔壁房间一样轻松访问。也可以前往<a href='https://linker.snltty.com' target='_blank'>官网下载安装包</a>",
         "labels": "工具,效率,网络,组网,异地组网",
-        "version": "1.9.9",
+        "version": "1.9.91",
         "author": "snltty",
         "author_url": "https://linker.snltty.com",
         "bug_report_url": "https://linker-doc.snltty.com",
         "install_type": "存储空间",
+	"isdocker":"true",
         "size": "10.4",
         "history": {
-            "v1.9.9": "初始版本"
+            "v1.9.91": "初始版本"
         }
     },
     "certimate": {
@@ -29,20 +31,23 @@
     },
     "fnpackup": {
         "display_name": "在线fpk",
+	"platform":"all",
         "desc": "fnpack二次包装UI，在线编辑和打包fpk",
         "labels": "工具,效率",
-        "version": "1.0.3",
+        "version": "1.0.7",
         "author": "snltty",
         "author_url": "https://github.com/snltty/fnpackup",
         "bug_report_url": "https://github.com/snltty/fnpackup",
         "install_type": "存储空间",
+	"isdocker":"true",
         "size": "0.05",
         "history": {
-            "v1.0.3": "初始版本"
+            "v1.0.7": "初始版本"
         }
     },
      "cs16server": {
         "display_name": "CS1.6服务端",
+	"platform":"all",
         "desc": "经典cs1.6服务端",
         "labels": "游戏",
         "version": "1.0.0",
@@ -50,6 +55,7 @@
         "author_url": "https://github.com/snltty",
         "bug_report_url": "https://github.com/snltty",
         "install_type": "存储空间",
+	"isdocker":"true",
         "size": "0.05",
         "history": {
             "v1.0.0": "初始版本"
