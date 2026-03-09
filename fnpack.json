@@ -34,7 +34,7 @@
 	"platform":"all",
         "desc": "[😂]简介 : fnpack二次包装UI，在线编辑和打包fpk，和帮助fpk自动托管静态资源，应用中心更新可能不及时，有问题可以去源码处下载最新fpk，此外，如果是ddns或者其它的自行外网方式访问，http是1069，https是10699，记得开通端口\n[🍚]恰饭 : </strong>作者可以帮忙打包fpk，￥30/次\n[🔋]为爱发电 : 群聊1121552990，开源https://github.com/snltty/fnpackup",
         "labels": "工具,效率",
-        "version": "1.0.8",
+        "version": "1.0.9",
         "author": "snltty",
         "author_url": "https://github.com/snltty/fnpackup",
         "bug_report_url": "https://github.com/snltty/fnpackup",
@@ -42,6 +42,7 @@
 	"isdocker":"true",
         "size": "0.05",
         "history": {
+	    "v1.0.9": "可选的打包后把fpk放入用户空间，请卸载重装",
 	    "v1.0.8": "登录限制，可选必须登录飞牛才能打开应用",
             "v1.0.7": "初始版本"
         }
